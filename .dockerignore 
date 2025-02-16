@@ -1,0 +1,8 @@
+ear Ignore virtual environment
+venv/
+
+# Ignore log files
+*.log
+
+# Ignore large data files
+data/
